@@ -178,8 +178,4 @@ This repository includes the **backend** built with **Node.js**, **Express**, an
 5. **Enhanced AI Diagnostics**:  
    - Expand ML models for advanced suggestions.  
 
----  
 
-For contributions, issues, or pull requests, feel free to reach out or submit to this repository!
-
-<sub><sup>✨ Built with passion and creativity by [Gopi Chakradhar](https://gopi-chakradhar.vercel.app/) ✨</sup></sub>
